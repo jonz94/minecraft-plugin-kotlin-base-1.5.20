@@ -1,0 +1,5 @@
+name: KotlinBase1dot5dot20
+version: 0.0.1
+api-version: 1.16
+description: Share Kotlin 1.5.20 Runtime for Kotlin Plugins
+main: dev.jonz94.kotlinbase1dot5dot20.Plugin
